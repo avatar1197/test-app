@@ -40,7 +40,7 @@ group :development, :test do
 
   # Static analysis for security vulnerabilities [https://brakemanscanner.org/]
   gem "brakeman", require: false
-  gem "rspec-rails", "~> 5.1"
+  gem "rspec-rails", "~> 6.1"
   gem "rspec-core", "~> 3.13"
   gem "rspec-expectations", "~> 3.13"
   gem "rspec-mocks", "~> 3.13"
